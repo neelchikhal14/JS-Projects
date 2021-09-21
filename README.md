@@ -5,4 +5,4 @@ Learning JS through Projects
 ### A project where Bill amount and Tip is shared between different individuals
 #### Key Learnings -
 ##### Handling Financial Calculations with Javascript
-###### Site URL : 
+###### Site URL : https://determined-rosalind-8a221b.netlify.app/
