@@ -11,4 +11,4 @@ Learning JS through Projects
 ### A project where poken details are fetched using API
 #### Key Learnings -
 ##### Asynchronous Javascript
-###### Site URL : https://determined-rosalind-8a221b.netlify.app/
+###### Site URL : https://elegant-hugle-feaef9.netlify.app
