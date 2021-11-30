@@ -6,3 +6,9 @@ Learning JS through Projects
 #### Key Learnings -
 ##### Handling Financial Calculations with Javascript
 ###### Site URL : https://determined-rosalind-8a221b.netlify.app/
+
+# 2. Pokedex
+### A project where poken details are fetched using API
+#### Key Learnings -
+##### Asynchronous Javascript
+###### Site URL : https://determined-rosalind-8a221b.netlify.app/
