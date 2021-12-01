@@ -12,3 +12,9 @@ Learning JS through Projects
 #### Key Learnings -
 ##### Asynchronous Javascript
 ###### Site URL : https://elegant-hugle-feaef9.netlify.app
+
+# 3. Custom Range Slider
+### Custom Range Slider using webkit for Chrome and Firefox
+#### Key Learnings - 
+##### Webkit
+###### Site URL : https://musing-kare-ca9ee9.netlify.app
