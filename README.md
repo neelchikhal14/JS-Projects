@@ -24,3 +24,9 @@ Learning JS through Projects
 #### Key Learnings - 
 ##### How to design Accordian , CSS Transitions
 ###### Site URL : https://sad-clarke-1fde1b.netlify.app
+
+# 4. Testomial Box Switcher 
+### Testimonial Box that switches after after 10sec
+#### Key Learnings - 
+##### CSS Animations - keyframes
+###### Site URL : https://naughty-ramanujan-29d8e2.netlify.app
